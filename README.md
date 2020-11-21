@@ -15,5 +15,9 @@ sudo bash PenWi.sh
 Este script está hecho por EmixBasicPentester.
 No sacar beneficios con este script.
 
+# De que se trata el script?
+
+El script esta basado en la suit aireplay-ng, al iniciarlo encontraras varias opciones, como iniciar modo monitor, capturar handshake y crackear el hash...
+
 # Fecha de inicio: 15/11/2020
 # Fecha de finalizacion: 21/11/2020
