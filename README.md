@@ -3,7 +3,9 @@
 
 #Instalación:
 
-git clone 
+(Importante ejecutar el script como super usuario)
+
+git clone https://github.com/EmixBasicPentester/PenWi
 cd PenWi
 chmod +x PenWi.sh
 sudo bash PenWi.sh
